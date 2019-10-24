@@ -1,0 +1,1 @@
+const anotherText="king kong"
